@@ -1,6 +1,7 @@
 # Daniel André Elis Gálvez
 
 Estudiante de Unini por medio de Funiber.
+Ambas cuentas colaboradoras son mias, Strange e smi cuenta personal y Dany es mi cuenta creada con el correo de la universidad
 
 ## Actividad practica Ingeniria de software 2
 
